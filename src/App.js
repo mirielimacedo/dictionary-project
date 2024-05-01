@@ -9,6 +9,7 @@ export default function App() {
           className="App-logo img-fluid"
           alt="logo"
         ></img>
+        <h1>Hello</h1>
       </header>
     </div>
   );
